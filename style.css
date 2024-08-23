@@ -1,0 +1,32 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content {
+    margin-bottom: 15px;
+}
+
+.margin {
+    margin-right: 18px;
+}
+
+.qr-input {
+    padding: 10px;
+    width: 200px;
+}
+
+#qr-result img {
+    margin-top: 20px;
+    border: 1px solid #000;
+}
+
+button {
+    padding: 10px 12px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background-color: bisque;
+}
